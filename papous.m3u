@@ -47,3 +47,5 @@ https://tsekina.greeklivechannels.ml/hls/stream200.m3u8
 https://uchilive.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 24
 https://uchilive.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 25
+https://uchilive.greeklivechannels.ml/hls/stream300.m3u8
