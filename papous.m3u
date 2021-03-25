@@ -1,34 +1,54 @@
 #EXTM3U
+#EXTINF:-1,Sport 2 HD
+http://82.197.212.210:8000/play/a11q/index.m3u8
+#EXTINF:-1,Sport 5
+http://82.197.212.210:8000/play/a11r/index.m3u8
+#EXTINF:-1,Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:0,Channel 1
 https://linotsi.greeklivechannels.ml/hls/streamnba.m3u8
 #EXTINF:0,Channel 2
 https://live.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 3
 https://live.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 3b
+https://live.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 4
 https://nio.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 5
 https://nio.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 5b
+https://nio.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 6
 https://server50.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 7
 https://server50.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 7b
+https://server50.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 8
 https://server100.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 9
 https://server100.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 9b
+https://server100.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 10
 https://server200.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 11
 https://server200.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 11b
+https://server200.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 12
 https://server300.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 13
 https://server300.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 13b
+https://server300.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 14
 https://server400.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 15
 https://server400.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 15b
+https://server400.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 16
 https://sletser.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 17
@@ -43,6 +63,8 @@ https://sletser.greeklivechannels.ml/hls/stream500.m3u8
 https://tsekina.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 22
 https://tsekina.greeklivechannels.ml/hls/stream200.m3u8
+#EXTINF:0,Channel 22b
+https://tsekina.greeklivechannels.ml/hls/stream300.m3u8
 #EXTINF:0,Channel 23
 https://uchilive.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 24
