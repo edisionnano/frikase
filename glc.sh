@@ -36,7 +36,7 @@ rm -rf matches.txt
 mv links.txt matches.txt
 rm -rf links.txt
 sed -i ':a;N;$!ba;s#</div>\n</div>.*$##g' matches.txt
-echo #EXTM3U>playlist.m3u
+echo "#EXTM3U">playlist.m3u
 while read line; do
     COUNT=$(( $COUNT + 1 ))
     LINKNO=1
