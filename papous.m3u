@@ -10,7 +10,7 @@ http://82.197.212.210:8000/play/a11r/index.m3u8
 #EXTINF:-1,Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:0,Channel 1
-https://linotsi.greeklivechannels.ml/hls/streamnba.m3u8
+https://server2.greeklivechannels.ml/livehls/stream100/playlist.m3u8
 #EXTINF:0,Channel 2
 https://live.greeklivechannels.ml/hls/stream100.m3u8
 #EXTINF:0,Channel 3
