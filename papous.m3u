@@ -11,3 +11,5 @@ http://82.197.212.210:8000/play/a11r/index.m3u8
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1,Bein Sports Extra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
+#EXTINF:-1,OLY-ANT
+https://server31.freestreamhd.ml/livehls/stream1/playlist.m3u8
